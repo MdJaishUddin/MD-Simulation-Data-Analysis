@@ -4,7 +4,7 @@ for installing necessary packages--
 pip install openpyxl
 
 how to use this code in linux/windows---
-python secondarystructurepercentage.py -i ss.xlsx
+python resinteractionanalysis.py -i int.xlsx
 
 for making the input file----
 1.Convert your open MD Trajctory to pdb file
